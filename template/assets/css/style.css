@@ -45,7 +45,7 @@ h5 {
 a {
   letter-spacing: 2px;
   text-decoration: none;
-  color: #71c55d;
+  color: gray;
 }
 
 a:hover {
@@ -115,7 +115,7 @@ span {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #71c55d;
+  background: gray;
   width: 40px;
   height: 40px;
   border-radius: 4px;
